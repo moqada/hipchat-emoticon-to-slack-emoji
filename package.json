@@ -1,0 +1,18 @@
+{
+  "name": "hipchat-emoticon-to-slack-emoji",
+  "description": "Convert HipChat emoticons to Slack emojis.",
+  "version": "1.0.0",
+  "author": "moqada <moqada@gmail.com>",
+  "dependencies": {
+    "emojipacks": "^0.2.0",
+    "hipchatter": "^1.0.0",
+    "js-yaml": "^3.8.4",
+    "yargs": "^8.0.1"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "emojipacks": "emojipacks"
+  }
+}
