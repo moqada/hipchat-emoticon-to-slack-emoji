@@ -20,5 +20,5 @@ node ./index.js dump --token=<HIPCHAT_AUTH_TOKEN>
 node ./index.js html
 
 # Upload Slack
-npm run emojipack
+npm run emojipacks
 ```
