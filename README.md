@@ -1,5 +1,7 @@
 # hipchat-emoticon-to-slack-emoji
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/moqada/hipchat-emoticon-to-slack-emoji.svg)](https://greenkeeper.io/)
+
 Convert HipChat emoticons to Slack emojis.
 
 ## Installation
